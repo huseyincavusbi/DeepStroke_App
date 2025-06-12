@@ -1,0 +1,11 @@
+# DeepStroke AI - Brain CT Stroke Detection
+# Optimized for Hugging Face Spaces (Python 3.10)
+gradio==5.33.1
+torch==2.7.1
+torchvision==0.22.1
+pillow==11.2.1
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.24.1
+kaleido==0.2.1
